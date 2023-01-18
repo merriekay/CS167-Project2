@@ -7,7 +7,7 @@ For this project, you will conduct a machine learning experiment of your own des
 - Students will be able to develop and conduct machine-learning-based data analysis experiments, and they will be able to interpret and explain the results.
 
 ## Project Description: 
-For this project, you are to identify the dataset you would like to utilize. I have provided several examples in class on December 1st, but you have the option of using any dataset you can find.
+For this project, you are to identify the dataset you would like to utilize. I have provided several examples in class, but you have the option of using any dataset you can find.
 
 You will be assessed on your ability to utilize algorithms and tools introduced in this class. There are some basic guidelines as to what I want to see laid out below, but you are the machine learning engineer and it is your job to draw some meaningful conclusions about the data.
 
